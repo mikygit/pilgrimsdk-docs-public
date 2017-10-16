@@ -1,1 +1,1 @@
-### Please see the [wiki](https://github.com/foursquare/pilgrimsdk-docs-public/wiki) for getting started guide and FAQs.
+### Please see the [developer docs](https://developer.foursquare.com/docs/pilgrim-sdk/overview) for getting started guide and FAQs.
